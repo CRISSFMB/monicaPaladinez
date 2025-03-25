@@ -1,0 +1,29 @@
+
+
+.backgroundNav{
+    background-color: black;
+  
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.logo{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+.link{
+   color: white;
+}
+
+.navLinks{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
