@@ -1,0 +1,106 @@
+.whySection {
+  padding: 4rem 0;
+}
+
+.title {
+  font-size: 3rem;
+  text-align: center;
+  color: white
+}
+
+.subtitle {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: white;
+}
+.wrapperContent {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  border-radius: 10px;
+  border-bottom: 1px solid white;
+  padding-bottom: 2rem;
+}
+
+.imagenWhy {
+  border-radius: 1rem;
+}
+.textContent {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.paragraphBlue {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ddaa61;
+  text-shadow: 1px 1px 5px #5b3f25;
+  font-family: 'Georgia', serif;
+  border-bottom: 1px solid white;
+  width: 30%;
+  padding-bottom: 1rem;
+}
+
+.paragraphNormal {
+  color: white;
+  line-height: 28px;
+  font-size: 1.4srem;
+}
+
+.row {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+
+  .title {
+    font-size: 5rem;
+    text-align: center;
+    color: white
+  }
+  .sub {
+    color : white;
+    font-size: 3rem;
+    margin-top: 9rem;
+  }
+
+  .wrapperContent {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    gap: 7rem;
+    margin-top: 8rem;
+  }
+
+  .imagenWhy {
+    height: 400px;
+    display: block;
+    padding-bottom: 2rem;
+  }
+
+  .ContentImage {
+    width: 400px;
+    height: 100%;
+  }
+
+  .textContent {
+    justify-content: space-around;
+    border-left: 1px solid white;
+    padding-left: 2rem;
+  }
+
+  .subtitle {
+    font-size: 2rem;
+    width: 70%;
+    line-height: 40px;
+  }
+
+  .paragraphBlue {
+    margin-bottom: 1rem;
+  }
+
+  
+}

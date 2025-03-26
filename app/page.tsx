@@ -1,6 +1,8 @@
 
 import type { Metadata } from 'next';
 import Hero from "./components/Hero/Hero";
+import SectionWhyUs from './components/section-why-us/SectionWhyUs';
+
 
 export const metadata: Metadata = {
   title: 'Home Page',
@@ -13,6 +15,7 @@ export default function Home() {
   return (
     <main>
       <Hero />
+      <SectionWhyUs />
     </main>
   );
 }
