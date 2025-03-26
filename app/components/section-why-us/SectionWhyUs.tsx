@@ -52,7 +52,7 @@ const SectionWhyUs = () => {
               Buyers
             </p>
             <p className={styles.paragraphNormal}>
-              Are you ready to find the home of your dreams? Contact us, and I’ll guide you through every step of the process to help you acquire the property you've always wanted.
+              Are you ready to find the home of your dreams? Contact us, and I Will guide you through every step of the process to help you acquire the property you've always wanted.
             </p>
           </li>
 
@@ -66,10 +66,10 @@ const SectionWhyUs = () => {
                   height={20}
                 />
               </span> */}
-              Let's talk and make your real estate goal a reality
+              Lets talk and make your real estate goal a reality
             </p>
             <p className={styles.paragraphNormal}>
-              Let's talk about your real estate future
+              Lets talk about your real estate future
             </p>
           </li>
         </ul>
