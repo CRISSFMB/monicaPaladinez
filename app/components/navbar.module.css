@@ -2,7 +2,8 @@
 
 .backgroundNav{
     background-color: black;
-  
+    border-bottom: 1px solid #575759;
+    box-shadow:2px -1px 16px 12px #575757;
 }
 
 .nav{
