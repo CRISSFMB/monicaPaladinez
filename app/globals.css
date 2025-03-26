@@ -21,7 +21,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.6rem;
-  background-image: linear-gradient(to right bottom, #000000, #050304, #090609, #0c0a0e, #0e0d12, #1b1b20, #26282e, #31353d, #4d535d, #6c727f, #8c93a2, #adb6c7);
+  background-color: black;
   background-attachment: fixed;
 }
 

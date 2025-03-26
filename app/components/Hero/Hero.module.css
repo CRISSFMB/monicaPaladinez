@@ -9,7 +9,9 @@
   align-items: center;
   gap: 1rem;
   border-radius: 10px;
-  box-shadow: 4px 8px 12px 1px black;
+  border-right: 1px solid #4B0082 ;
+  border-left: 1px solid #4B0082;
+  box-shadow: 7px 2px 13px 0px #280028;
 }
 
 .hero__content__logo {
@@ -19,6 +21,7 @@
   box-shadow: 2px 3px 6px 0px #675118;
   margin: 0 auto;
   margin-top: -70px;
+  
 }
 
 .hero__content {
